@@ -1,7 +1,7 @@
 package Task30thJan;
 import java.util.Scanner;
 
-public class CheckAlphabet {
+public class ATM {
         public static void main(String[] args) {
 
             int Bal = 10000;
